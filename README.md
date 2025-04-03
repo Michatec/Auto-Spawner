@@ -3,7 +3,7 @@ Auto Spawner für FiveM.
 
 Dieses Skript ermöglicht es Admins, Fahrzeuge zu spawnen und zu löschen. Fahrzeuge werden mit den Standardfarben des Spiels gespawnt, außer mann gibt eine Farbe an.
 
-# Features:
+# Features
 
 Fahrzeug spawnen: können mit dem Befehl /car [fahrzeugname] Optional RGB: [r, g, b] Fahrzeuge spawnen.
 
@@ -15,8 +15,28 @@ Fahrzeug löschen: können mit dem Befehl /delcar das zuletzt gespawnte Fahrzeug
 Standardfarbe: Fahrzeuge werden mit den Standardfarben des Spiels gespawnt, außer mann gibt eine Farbe 
 an.
 
-# Admin-Berechtigungen:
+# Admin-Berechtigungen
 
 Das Skript überprüft, ob der Spieler Admin ist, bevor er den Befehl verwenden kann. Du kannst die Admin-Berechtigung in der isAdmin-Funktion anpassen.
 
+# Installation
+1. Lade den ZIP-Ordner herunter:
+Lade die ZIP-Datei des car_spawner-Skripts [hier]() herunter.
 
+2. Entpacke den ZIP-Ordner:
+Entpacke die ZIP-Datei auf deinem Computer.
+
+3. Füge das Skript in deinen Server-Ordner ein:
+Kopiere den entpackten Ordner car_spawner in den resources-Ordner deines FiveM-Servers.
+
+4. Aktiviere das Skript auf deinem Server:
+Öffne deine server.cfg und füge den folgenden Befehl hinzu, um das Skript zu starten:
+
+
+start car_spawner
+
+
+5. Server Neustart/Hochfahren:
+
+Starte deinen Server (neu), damit das Sk
+ript geladen wird.
