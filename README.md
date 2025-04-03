@@ -32,9 +32,9 @@ Kopiere den entpackten Ordner car_spawner in den resources-Ordner deines FiveM-S
 4. Aktiviere das Skript auf deinem Server:
 Öffne deine server.cfg und füge den folgenden Befehl hinzu, um das Skript zu starten:
 
-
-start car_spawner
-
+```plaintext
+     start car_spawner
+```
 
 5. Server Neustart/Hochfahren:
 
