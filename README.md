@@ -21,7 +21,7 @@ Das Skript überprüft, ob der Spieler Admin ist, bevor er den Befehl verwenden 
 
 # Installation
 1. Lade den ZIP-Ordner herunter:
-Lade die ZIP-Datei des car_spawner-Skripts [hier]() herunter.
+Lade die ZIP-Datei des car_spawner-Skripts [hier](https://github.com/Michatec/Auto-Spawner/releases) herunter.
 
 2. Entpacke den ZIP-Ordner:
 Entpacke die ZIP-Datei auf deinem Computer.
