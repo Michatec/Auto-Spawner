@@ -5,12 +5,13 @@ Dieses Skript ermöglicht es Admins, Fahrzeuge zu spawnen und zu löschen. Fahrz
 
 # Features
 
-Fahrzeug spawnen: können mit dem Befehl /car [fahrzeugname] Optional RGB: [r, g, b] Fahrzeuge spawnen.
+Fahrzeug spawnen: /car [fahrzeugname] Optional RGB: [r, g, b] 
 
 Bsp: /car sultan 0 0 255
 --> Blauer Sultan
 
-Fahrzeug löschen: können mit dem Befehl /delcar das zuletzt gespawnte Fahrzeug löschen.
+Fahrzeug löschen: /delcar 
+--> Das zuletzt gespawnte Fahrzeug löschen.
 
 Standardfarbe: Fahrzeuge werden mit den Standardfarben des Spiels gespawnt, außer mann gibt eine Farbe 
 an.
