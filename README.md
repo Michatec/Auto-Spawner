@@ -11,7 +11,7 @@ Bsp: /car sultan 0 0 255
 --> Blauer Sultan
 
 Fahrzeug löschen: /delcar 
---> Das zuletzt gespawnte Fahrzeug löschen.
+--> Das nächstgelegene Auto wird gelöscht das durch dieses Skript gespawnt.
 
 Standardfarbe: Fahrzeuge werden mit den Standardfarben des Spiels gespawnt, außer mann gibt eine Farbe 
 an.
